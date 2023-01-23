@@ -1,17 +1,12 @@
-{
-    "cocktail1": {
+[
+    {
         "name": "Aperol Spritz",
         "price": 12,
         "image": "https://images.pexels.com/photos/1280364/pexels-photo-1280364.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
-    "cocktail2": {
+    {
         "name": "Virgin Mojito",
-        "price": 10,
+        "price": 8,
         "image": "https://images.pexels.com/photos/1187766/pexels-photo-1187766.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    },
-    "cocktail3": {
-        "name": "Cuba Libre",
-        "price": 15,
-        "image": "https://images.pexels.com/photos/1304540/pexels-photo-1304540.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     }
-}
+]

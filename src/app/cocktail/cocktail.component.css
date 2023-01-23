@@ -8,7 +8,7 @@
 .cocktail-card img {
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
-    height: 30vh;
+    width: 100%;
 }
 .cocktail-card {
     margin: 20px;
@@ -16,4 +16,5 @@
     border: 1px solid grey;
     width: fit-content;
     text-align: center;
+    
 }
